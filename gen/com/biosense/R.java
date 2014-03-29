@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package in.wptrafficanalyzer.achartenginedynamicchart;
+package com.biosense;
 
 public final class R {
     public static final class attr {

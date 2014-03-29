@@ -1,4 +1,6 @@
-package in.wptrafficanalyzer.achartenginedynamicchart;
+package com.biosense;
+
+import com.biosense.*;
 
 import java.io.File;
 import java.io.FileWriter;
